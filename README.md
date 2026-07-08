@@ -13,7 +13,7 @@ A modern, responsive web application for Little Lemon restaurant featuring onlin
 - 🧪 **Comprehensive Testing** - Unit tests with React Testing Library
 - 🎨 **Modern UI** - Clean and user-friendly interface
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 
@@ -44,7 +44,7 @@ npm start
 
 The app is now ready to use! You can start making table reservations.
 
-## 📦 Build for Production
+##  Build for Production
 
 ```bash
 # Create an optimized production build
@@ -53,7 +53,7 @@ npm run build
 # This creates a `build` folder optimized for production deployment
 ```
 
-## 🧪 Testing
+##  Testing
 
 ```bash
 # Run the test suite
@@ -63,7 +63,7 @@ npm test
 npm test -- --watch
 ```
 
-## 📚 Technologies Used
+##  Technologies Used
 
 | Technology | Version | Purpose |
 |------------|---------|---------|
@@ -75,13 +75,13 @@ npm test -- --watch
 | HTML5 | - | Markup language |
 | CSS3 | - | Styling and responsive design |
 
-## 📊 Language Composition
+##  Language Composition
 
 - JavaScript: Primary language
 - HTML5: Markup
 - CSS3: Styling
 
-## 📝 Project Structure
+##  Project Structure
 
 ```
 Restaurant-Little-Lemon/
@@ -105,7 +105,7 @@ Restaurant-Little-Lemon/
 └── README.md                   # Project documentation
 ```
 
-## 🎯 How to Use
+##  How to Use
 
 ### Making a Reservation
 
@@ -125,7 +125,7 @@ The booking form includes validation for:
 - Guest count (typically 1-10)
 - Required personal information
 
-## 🏗️ Core Components
+##  Core Components
 
 ### BookingForm Component
 Handles user input for reservation details with validation and error handling.
@@ -139,7 +139,7 @@ Displays confirmation details after successful booking.
 ### Navigation & Routing
 Uses React Router for smooth navigation between different pages.
 
-## ✅ Available Scripts
+##  Available Scripts
 
 | Script | Command | Description |
 |--------|---------|-------------|
@@ -150,14 +150,14 @@ Uses React Router for smooth navigation between different pages.
 
 **Note:** `npm run eject` is a one-way operation. Once you eject, you can't go back!
 
-## 🌐 Browser Support
+##  Browser Support
 
 - Chrome (latest)
 - Firefox (latest)
 - Safari (latest)
 - Edge (latest)
 
-## 📱 Responsive Design
+##  Responsive Design
 
 The application is built with a mobile-first approach ensuring:
 - Optimal viewing on mobile devices (320px+)
@@ -184,7 +184,7 @@ Contributions are welcome! To contribute:
 - Ensure responsive design works on all screen sizes
 - Keep components small and focused
 
-## 🐛 Troubleshooting
+##  Troubleshooting
 
 ### Port Already in Use
 If port 3000 is already in use:
@@ -206,11 +206,11 @@ npm test -- --clearCache
 npm test
 ```
 
-## 📄 License
+##  License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-## 🎓 Project Context
+##  Project Context
 
 This project was developed as part of the **Meta Front-End Developer Capstone Project**, demonstrating proficiency in:
 - React development
@@ -220,7 +220,7 @@ This project was developed as part of the **Meta Front-End Developer Capstone Pr
 - Responsive web design
 - Testing and quality assurance
 
-## 💡 Future Enhancements
+##  Future Enhancements
 
 Potential features for future versions:
 - Backend integration for persistent data
